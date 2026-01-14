@@ -70,10 +70,10 @@ It is used to train a **Linear Regression** model.
 ```bash
 pip install -r requirements.txt
 
-### 2️⃣ Run the application
+2️⃣ Run the application
 streamlit run app.py
 
-### 3️⃣ Open in browser
+3️⃣ Open in browser
 http://localhost:8501
 
 🧪 Sample Demo Inputs
@@ -112,4 +112,3 @@ Deploy using cloud platforms
 Malini S
 AI / ML Mini Project
 GitHub: https://github.com/malini337
-
